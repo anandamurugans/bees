@@ -1,0 +1,2 @@
+# bees
+static web page
